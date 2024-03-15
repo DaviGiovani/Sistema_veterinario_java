@@ -1,4 +1,4 @@
-# Sistema veterinario em Java
+# Sistema veterinário em Java
 - ### Proposta elaborada pelo professor Anderson.
 - ### O sistema possui uma interface baseada no terminal, em que o usuário poderá escolher entre as opções:
 - Cadastrar novo animal;
