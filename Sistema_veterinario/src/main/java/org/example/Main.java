@@ -112,7 +112,7 @@ public class Main {
         if (animal != null) {
             System.out.println("Animal encontrado:");
             System.out.println("ID: " + animal.getIdAnimal());
-            System.out.println("Descrição: " + animal.getDescricaoAnimal());
+            System.out.println("Raça: " + animal.getDescricaoAnimal());
             System.out.println("Categoria: " + animal.getRacaAnimal());
         } else {
             System.out.println("Animal não encontrado.");
